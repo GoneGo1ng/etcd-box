@@ -1,5 +1,7 @@
 # ETCD BOX
 
+一个简单的ETCD可视化工具。
+
 ## About
 
 之前用过两个ETCD可视化工具，[etcd-viewer](https://github.com/nikfoundas/etcd-viewer) 和 [etcdkeeper](https://github.com/evildecay/etcdkeeper) 。
